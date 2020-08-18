@@ -6,6 +6,7 @@ The important files is only:
 
 1. crud.class.php
 2. connect.class.php
+3. Classes files used in project here I put only **User.class.php** as example.
  
 Others files on this repository as: **example-insert.php** and **example-login.php** is only example showing to to implement it.
 
