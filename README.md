@@ -1,8 +1,9 @@
 # crud
 A simple crud system
 
-The main purpose of this CRUD is show a simple implementation .
-The important files is only:
+The main purpose of this CRUD is show a simple implementation.
+
+The important files:
 
 1. crud.class.php
 2. connect.class.php
